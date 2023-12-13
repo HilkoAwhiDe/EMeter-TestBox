@@ -4,7 +4,8 @@ Test Box , um das Standartgemäße Nadelverhalten an einem E Meter zu überprüf
 Sicher zu stellen , das die physiologischen Anzeigen auf einem E Meter den von L Ron Hubert definierten Verhalten entsprechen.
 Alle, die selbst ein E-Meter entwickeln, können diese Box zur Prüfung verwenden.
 # Wie funktioniert die Test Box
-Verstärkung, Reaktion der Nadel bei Widerstandsänderungen am RA(beim PC).
+Verstärkung, Reaktion der Nadel bei Widerstandsänderungen am 
+des PCs, im folgenden wird der Widerstand des PC in Ohm als RA bezeichnet.
 * Verstärkung	 Minimal:
 TA = 2 PC(RA) = 5K Nadel in Set Position. 
 Nun zu den  5K einen 62,5K 1% Widerstand parallel  schalten. 
